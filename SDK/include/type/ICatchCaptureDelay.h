@@ -1,0 +1,12 @@
+#ifndef __ICATCH_CAPTURE_DELAY_H__
+#define __ICATCH_CAPTURE_DELAY_H__
+
+enum ICatchCaptureDelay {
+	CAP_DELAY_NO = 0,
+	CAP_DELAY_2S = 2000,
+	CAP_DELAY_10S = 10000,
+	
+	CAP_DELAY_UNDEFINED = 0xFFFF,
+};
+
+#endif

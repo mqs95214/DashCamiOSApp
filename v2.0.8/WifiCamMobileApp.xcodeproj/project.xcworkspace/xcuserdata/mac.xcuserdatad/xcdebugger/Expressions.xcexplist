@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "::-[SelectCountryViewController viewDidLoad]():SelectCountryViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.NVTGetHttpValueDict">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[FileListViewController updateGPSMap:sec:](NSMutableArray *, int):FileListViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "::-[SettingViewController fillCountryTable]():SettingViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "country">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbTableViewController delete:](id):MpbTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_FileListChooseItem">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[ViewPreviewMenuController NodePlaySetUrl]():ViewPreviewMenuController.m">
+      </ContextState>
+      <ContextState
+         contextName = "::-[CustomSettingViewController tableView:numberOfRowsInSection:](UITableView *, NSInteger):CustomSettingViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.VideoMenuSettingTable">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[AboutViewController NVTGetHttpCmd:](NSString *):AboutViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.NVTGetHttpValueDict objectForKey:cmd]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[FileListViewController file_videoPlayBT_clicked:](id):FileListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_NavigationBarView.layer.position.y">
+            </PersistentString>
+            <PersistentString
+               value = "frame.origin.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[FileListViewController file_changeTypeBT_clicked:](id):FileListViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "::__46-[VideoPlaybackViewController updateTimeInfo:]_block_invoke():VideoPlaybackViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_slideController.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[SettingViewController NvtprepareDataForTimeZone:](uint):SettingViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "*it">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbViewController parser:foundCharacters:](NSXMLParser *, NSString *):MpbViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.FileList">
+            </PersistentString>
+            <PersistentString
+               value = "FileListName">
+            </PersistentString>
+            <PersistentString
+               value = "self.FileProperty">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[ViewController parser:foundCharacters:](NSXMLParser *, NSString *):ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "::-[SelectCountryViewController NVTGetHttpCmd:](NSString *):SelectCountryViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.NVTGetHttpValueDict">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[VideoPlaybackViewController NvtPlayVideo]():VideoPlaybackViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.curVideoPTS">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[FileListViewController CalculateWithBinary:par2:par3:par4:](Byte, Byte, Byte, Byte):FileListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "testByte">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[SettingViewController NvtcalcGSensorValue:](uint):SettingViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "*it">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbViewController connection:didReceiveData:](NSURLConnection *, NSData *):MpbViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "data.lenght">
+            </PersistentString>
+            <PersistentString
+               value = "self.receiveLength">
+            </PersistentString>
+            <PersistentString
+               value = "self.NVT_Download_totalLength">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[ViewPreviewMenuController viewDidLoad]():ViewPreviewMenuController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[SSIDSreial CheckSSIDSerial:SSID]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[FileListViewController toBinarySystemWithDecimalSystemForGSensor:Y_Zeexl:](NSString *, int):FileListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "prepare.length">
+            </PersistentString>
+            <PersistentString
+               value = "result.length">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[VideoFileCutViewController ReWriteGPS_METADATA_End:](NSString *):VideoFileCutViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "::-[CustomSettingSubViewController textFieldDidChange:](UITextField *):CustomSettingSubViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "textField.bounds.size.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[ViewController viewDidLoad]():ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "hhh">
+            </PersistentString>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[ViewController movieRecordingTimerCallback:](NSTimer *):ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbSegmentViewController tableView:cellForRowAtIndexPath:](UITableView *, NSIndexPath *):MpbSegmentViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "::-[ViewPreviewMenuController NVTGetHttpCmd:](NSString *):ViewPreviewMenuController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self NVTGetHttpCmd:@&quot;2019&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "self.NVTGetHttpValueDict">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::__39-[MpbTableViewController deleteDetail:]_block_invoke():MpbTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_FileListChooseItem">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__CFSimpleMergeSort:(null)">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.FileListVideoPropertySort">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[VideoFileCutViewController viewDidLoad]():VideoFileCutViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "OuterFrame.frame.origin.y">
+            </PersistentString>
+            <PersistentString
+               value = "RightMargin.frame.origin.x">
+            </PersistentString>
+            <PersistentString
+               value = "self.GPS_PerSecondData">
+            </PersistentString>
+            <PersistentString
+               value = "_YesOrNoView.frame.origin.y">
+            </PersistentString>
+            <PersistentString
+               value = "self.YesOrNoView.frame.origin.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[VideoPlaybackViewController tapToHideControl:](UITapGestureRecognizer *):VideoPlaybackViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "FileListVideoTimeCode">
+            </PersistentString>
+            <PersistentString
+               value = "FileListVideoTime">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbTableViewController downloadSelectedFile:andFailedCount:andPhotoCount:andVideoCount:](ICatchFile, NSInteger *, NSInteger *, NSInteger *):MpbTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSTemporaryDirectory()">
+            </PersistentString>
+            <PersistentString
+               value = "self.shareFiles">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[VideoFileCutViewController trim_find_CC:FileName:](int, NSString *):VideoFileCutViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[datay length]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[FileListViewController viewWillAppear:](BOOL):FileListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[[fileListVideo objectAtIndex:i] objectAtIndex:j] objectForKey:@&quot;Name&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbSegmentViewController NodePlayerClearView]():MpbSegmentViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.np">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbTableViewController tableView:didSelectRowAtIndexPath:](UITableView *, NSIndexPath *):MpbTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbSegmentViewController createPageViewController:](MpbMediaType):MpbSegmentViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "CGRectGetWidth(self.pageView.frame)">
+            </PersistentString>
+            <PersistentString
+               value = "self.pageView.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::__50-[WifiCamPropertyControl prepareDataForVideoSize:]_block_invoke():WifiCamPropertyControl.m">
+      </ContextState>
+      <ContextState
+         contextName = "::-[ViewController viewDidAppear:](BOOL):ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_camera.previewMode">
+            </PersistentString>
+            <PersistentString
+               value = "iStorage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbTableViewController sortList]():MpbTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "i">
+            </PersistentString>
+            <PersistentString
+               value = "FileListVideoProperty">
+            </PersistentString>
+            <PersistentString
+               value = "_fileTable.fileList.at(i)">
+            </PersistentString>
+            <PersistentString
+               value = "_FileListVideoProperty">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[FileListViewController numberOfSectionsInTableView:](UITableView *):FileListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_listType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[FileListViewController viewDidLoad]():FileListViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbTableViewController tableView:numberOfRowsInSection:](UITableView *, NSInteger):MpbTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[_FileListVideoPropertySort objectAtIndex:section] count]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbViewController viewWillAppear:](BOOL):MpbViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "FileListName">
+            </PersistentString>
+            <PersistentString
+               value = "FileListFullName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[SettingViewController tableView:cellForRowAtIndexPath:](UITableView *, NSIndexPath *):SettingViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.switchViewer.on">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[SetWirelessPasswordViewController textField:shouldChangeCharactersInRange:replacementString:](UITextField *, NSRange, NSString *):SetWirelessPasswordViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "str">
+            </PersistentString>
+            <PersistentString
+               value = "_passwordConfirmTextField.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[FileListViewController ShareButton:](id):FileListViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbSegmentViewController updateSeekBarValue]():MpbSegmentViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentSec">
+            </PersistentString>
+            <PersistentString
+               value = "self.firstFrameSize">
+            </PersistentString>
+            <PersistentString
+               value = "self.np">
+            </PersistentString>
+            <PersistentString
+               value = "self.seekvalue">
+            </PersistentString>
+            <PersistentString
+               value = "self.displayerFrameSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbTableViewController LockProcess]():MpbTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.FileListChooseItem">
+            </PersistentString>
+            <PersistentString
+               value = "_fileTable.fileList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbTableViewController connection:didReceiveData:](NSURLConnection *, NSData *):MpbTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.NvtFileLocalPaths">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[VideoFileCutViewController ReWriteGPS_METADATA_ICatch:OutFilePath:](NSString *, NSString *):VideoFileCutViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[string substringWithRange:NSMakeRange(35, string.length-35)]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[FileListViewController GPS_Action:](id):FileListViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbSegmentViewController needDownloadFile:](int):MpbSegmentViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "::-[ViewController NVTGetHttpCmd:](NSString *):ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self NVTGetHttpCmd:@&quot;3024&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[SettingViewController fillDateTimeTable]():SettingViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "curDateTime">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbSegmentViewController NodePlaySetUrl]():MpbSegmentViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.PlayerPath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[VideoPlaybackViewController viewDidLoad]():VideoPlaybackViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "NvtFileHeight">
+            </PersistentString>
+            <PersistentString
+               value = "tempurl">
+            </PersistentString>
+            <PersistentString
+               value = "NvtFileWigth">
+            </PersistentString>
+            <PersistentString
+               value = "NvtFileLength">
+            </PersistentString>
+            <PersistentString
+               value = "realurl">
+            </PersistentString>
+            <PersistentString
+               value = "_slideController.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[FileListViewController getPhotoAblum]():FileListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "userAlbums">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::__53-[VideoPlaybackViewController playbackButtonPressed:]_block_invoke.468():VideoPlaybackViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "::-[AboutPage1ViewController parser:foundCharacters:](NSXMLParser *, NSString *):AboutPage1ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.NVTGetHttpValueDict">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbViewController NVTGetHttpCmd:](NSString *):MpbViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "::__37-[MpbTableViewController stopVideoPb]_block_invoke():MpbTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.played">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbTableViewController photoSinglePlaybackCallback:](NSIndexPath *):MpbTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbViewController videoSinglePlaybackCallback:](NSIndexPath *):MpbViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::__30-[ViewController stillCapture]_block_invoke.896():ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_burstCaptureCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbTableViewController connection:didReceiveResponse:](NSURLConnection *, NSURLResponse *):MpbTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "::-[FileListViewController visitDirectoryList:Isascending:](NSString *, BOOL):FileListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "path">
+            </PersistentString>
+            <PersistentString
+               value = "self.path">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::__34-[MpbViewController deleteDetail:]_block_invoke():MpbViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_FileListVideoName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[SetWirelessPasswordViewController passwordVisibilityBtn_TouchUp:](id):SetWirelessPasswordViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[_passwordVisibilityBtn imageForState:UIControlStateNormal]">
+            </PersistentString>
+            <PersistentString
+               value = "[UIImage imageNamed:@&quot;control_passwords_close&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::__38-[FileListViewController ShareButton:]_block_invoke_3():FileListViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbTableViewController shareSelectedFiles]():MpbTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.shareFiles">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[FileListViewController _shouldRotateToOrientation:](UIDeviceOrientation):FileListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.GPS_View.frame.size.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[DashcamInitViewController getLenghtText]():DashcamInitViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[arrayText objectAtIndex:selectedIndex]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::__51-[VideoPlaybackViewController sliderTouchUpInside:]_block_invoke_2():VideoPlaybackViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.curVideoPTS">
+            </PersistentString>
+            <PersistentString
+               value = "slider.value">
+            </PersistentString>
+            <PersistentString
+               value = "self.playedSecs">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[ViewDetailController NVTGetHttpCmd:](NSString *):ViewDetailController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.CurrentMode">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbViewController photoSinglePlaybackCallback:](NSIndexPath *):MpbViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = " mpbSegmentViewController.fileType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[SelectSpeedUnitsViewController nextBtn_TouchUp:](id):SelectSpeedUnitsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self NVTGetHttpCmd:@&quot;3014&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[TestHttpViewController SendHttp:](id):TestHttpViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[NSURLConnection sendSynchronousRequest:request returningResponse:&amp;response error:&amp;error]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[FileListViewController Nvt_gps_PerSecond_Save:FileName:](int, NSString *):FileListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "GPS_Dictionary">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[AboutPage1ViewController viewDidAppear:](BOOL):AboutPage1ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.NVTGetHttpValueDict objectForKey:@&quot;3012&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbViewController LockAction:](id):MpbViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_selItemsTable.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbViewController NVTGetFileInformationCmd:FullFileName:](NSString *, NSString *):MpbViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "NvtThumbnilPath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[CustomSettingSubViewController onClickButtonOfPlateTouchUp:](id):CustomSettingSubViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_LicensePlateStamp.text.length">
+            </PersistentString>
+            <PersistentString
+               value = "_LicensePlateStamp.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::__58-[MpbTableViewController tableView:cellForRowAtIndexPath:]_block_invoke():MpbTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "Fpath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[SettingViewController chooseDate]():SettingViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.SSID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::__38-[FileListViewController ShareButton:]_block_invoke(AVAssetExportSession *, NSDictionary *):FileListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[VideoPlaybackViewController updateTimeInfo:](NSTimer *):VideoPlaybackViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_curVideoPTS">
+            </PersistentString>
+            <PersistentString
+               value = "_ijkplayer.duration">
+            </PersistentString>
+            <PersistentString
+               value = "_ijkplayer.playableDuration">
+            </PersistentString>
+            <PersistentString
+               value = "self.playedSecs">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::__112-[MpbTableViewController showActionSheetFromBarButtonItem:message:cancelButtonTitle:destructiveButtonTitle:tag:]_block_invoke(UIAlertAction *):MpbTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_FileListChooseItem">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[CustomSettingViewController fillLicensePlateStampTable]():CustomSettingViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.NVTSettingValueDict">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[SetWirelessPasswordViewController nextBtn_TouchUp:](id):SetWirelessPasswordViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self NVTGetHttpCmd:@&quot;3029&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbTableViewController tableView:cellForRowAtIndexPath:](UITableView *, NSIndexPath *):MpbTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "::-[SDK initializeSDK]():SDK.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.playback">
+            </PersistentString>
+            <PersistentString
+               value = "self.preview">
+            </PersistentString>
+            <PersistentString
+               value = "self.control">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.m">
+      </ContextState>
+      <ContextState
+         contextName = "::-[FileListViewController GPSMapVideoView:Serial:](NSMutableArray *, int):FileListViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbViewController resetCollectionViewData]():MpbViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.gallery">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[SelectInitPositionViewController NodePlaySetUrl]():SelectInitPositionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self NVTGetHttpCmd:@&quot;2019&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbViewController collectionView:didSelectItemAtIndexPath:](UICollectionView *, NSIndexPath *):MpbViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.selItemsTable.count">
+            </PersistentString>
+            <PersistentString
+               value = "_selItemsTable.selectedCells">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[FileListViewController Nvt_gps_PerSecond_Save]():FileListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "GPS_PerSecondData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbViewController collectionView:cellForItemAtIndexPath:](UICollectionView *, NSIndexPath *):MpbViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "FileListName">
+            </PersistentString>
+            <PersistentString
+               value = "_FileListFullName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[AboutPage3ViewController tableView:didSelectRowAtIndexPath:](UITableView *, NSIndexPath *):AboutPage3ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self inquiryDataCount:db tableName:tableName]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::__60-[FileListViewController tableView:didSelectRowAtIndexPath:]_block_invoke(UIImage *, NSDictionary *):FileListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::__37-[MpbTableViewController LockAction:]_block_invoke_2():MpbTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_FileListVideoProperty">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbTableViewController viewDidAppear:](BOOL):MpbTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "FileListVideoPropertySort">
+            </PersistentString>
+            <PersistentString
+               value = "[[_FileListPhotoProperty objectAtIndex:0] objectForKey:@&quot;PhotoTime&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbTableViewController LockAction:](id):MpbTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_FileListVideoLock">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[ViewPreviewMenuController getDashcamTimeDate]():ViewPreviewMenuController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[str substringWithRange:NSMakeRange(0, range.location)]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbTableViewController UnLockAction:](id):MpbTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_FileListVideoLock">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbTableViewController deleteDetail:](id):MpbTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_FileListChooseItem">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[CustomSettingViewController DUOHDVideoSettingDataCell:](int):CustomSettingViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.VideoMenuSettingTable">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[ViewPreviewMenuController recheckSSID]():ViewPreviewMenuController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "info">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbViewController play:](id):MpbViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "searchResult.location">
+            </PersistentString>
+            <PersistentString
+               value = "chooseIndex.item">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[NovatekRecordingViewController NVTGetHttpCmd:](NSString *):NovatekRecordingViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.NVTGetHttpValueDict objectForKey:cmd]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::__39-[SettingViewController viewDidAppear:]_block_invoke():SettingViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.NVTGetHttpValueDict">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::__39-[MpbTableViewController deleteDetail:]_block_invoke_3():MpbTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_FileListChooseItem">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[SelectInitPositionViewController NVTGetHttpCmd:](NSString *):SelectInitPositionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.NVTGetHttpValueDict">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbSegmentViewController NovatekPlayerStart]():MpbSegmentViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.PlayerView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbTableViewController viewWillAppear:](BOOL):MpbTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.FileListVideoProperty">
+            </PersistentString>
+            <PersistentString
+               value = "self.FileVideoInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbTableViewController tableView:titleForHeaderInSection:](UITableView *, NSInteger):MpbTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[[_FileListVideoPropertySort objectAtIndex:section] objectAtIndex:row] objectForKey:@&quot;VideoTime&quot;] substringWithRange:NSMakeRange(0, 10)]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::__51-[FileListViewController file_videoPlayBT_clicked:]_block_invoke(AVAsset *, AVAudioMix *, NSDictionary *):FileListViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "::-[SelectInitPositionViewController parser:foundCharacters:](NSXMLParser *, NSString *):SelectInitPositionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.NVTGetHttpValueDict">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[FileListViewController toBinarySystemWithDecimalSystem:par2:](NSString *, int):FileListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "result.length">
+            </PersistentString>
+            <PersistentString
+               value = "newValue.length">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[FileListViewController Nvt_stco_find]():FileListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "testByte[0]">
+            </PersistentString>
+            <PersistentString
+               value = "per_sec_data_position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[FileListViewController setCheckArray]():FileListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[FileListViewController tableView:cellForRowAtIndexPath:](UITableView *, NSIndexPath *):FileListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "fileSize">
+            </PersistentString>
+            <PersistentString
+               value = "fileCreateDate">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "fileModDate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[DashcamInitViewController adjFontSize:](UILabel *):DashcamInitViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[CustomSettingViewController NVTGetHttpCmd:](NSString *):CustomSettingViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.NVTSettingValueDict">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::__38-[FileListViewController ShareButton:]_block_invoke(UIImage *, NSDictionary *):FileListViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "::-[FileListViewController LockAction:](id):FileListViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbSegmentViewController NodePlayerSeekToZero]():MpbSegmentViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.PlayerView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbViewController NVTGetFileThunbnailCmd:FullFileName:](NSString *, NSString *):MpbViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "FileListFullName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[VideoFileCutViewController OK_Action:](id):VideoFileCutViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "exportSession.status">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbTableViewController play:](id):MpbTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.NvtPlayerUrl">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[SelectInitPositionViewController viewDidLoad]():SelectInitPositionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.NVTGetHttpValueDict">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[SettingViewController fillVideoSizeTable]():SettingViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "CommandValue">
+            </PersistentString>
+            <PersistentString
+               value = "self.NVTGetHttpValueDict objectForKey:@&quot;2002&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[FileListViewController updateTimeInfo:](NSTimer *):FileListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_player.currentTime.timescale">
+            </PersistentString>
+            <PersistentString
+               value = "_player.currentTime.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbTableViewController videoSinglePlaybackCallback:](NSIndexPath *):MpbTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.NvtPlayerUrl">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbTableViewController parser:foundCharacters:](NSXMLParser *, NSString *):MpbTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "string">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[SettingViewController NvtprepareDataForGSensor:](uint):SettingViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "*it">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::__41-[MpbTableViewController downloadDetail:]_block_invoke.1002():MpbTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.downloadedFileNumber">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[ViewDetailController ijkPlayerInit]():ViewDetailController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "screenSize.height">
+            </PersistentString>
+            <PersistentString
+               value = "rectNav.size.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbViewController viewDidLoad]():MpbViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "FileListName">
+            </PersistentString>
+            <PersistentString
+               value = "FileListSize">
+            </PersistentString>
+            <PersistentString
+               value = "FIleListName">
+            </PersistentString>
+            <PersistentString
+               value = "FileListTimeCode">
+            </PersistentString>
+            <PersistentString
+               value = "self.FileList">
+            </PersistentString>
+            <PersistentString
+               value = "FileListTime">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[SDK checkSDExist]():SDK.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_control">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "::-[MpbTableViewController updateTimeInfo:](NSTimer *):MpbTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.totalSecs ">
+            </PersistentString>
+            <PersistentString
+               value = "mpbSegmentViewController.SliderMaxValue">
+            </PersistentString>
+            <PersistentString
+               value = "self.played">
+            </PersistentString>
+            <PersistentString
+               value = "mpbSegmentViewController.seekvalue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

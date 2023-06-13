@@ -1,0 +1,14 @@
+#ifndef __ICATCH_WIFI_CAM_WHITE_BALANCE_H__
+#define __ICATCH_WIFI_CAM_WHITE_BALANCE_H__
+
+enum ICatchWhiteBalance {
+	WB_UNDEFINED	= 0xFFBF,
+	WB_AUTO			= 0x0001,
+	WB_DAYLIGHT		= 0x0002,
+	WB_CLOUDY		= 0x0003,
+	WB_FLUORESCENT	= 0x0004,
+	WB_TUNGSTEN		= 0x0005,	
+};
+
+#endif
+

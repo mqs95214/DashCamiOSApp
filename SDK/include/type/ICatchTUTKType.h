@@ -1,0 +1,12 @@
+#ifndef __ICATCH_TUTK_TYPE_H__
+#define __ICATCH_TUTK_TYPE_H__
+
+typedef enum ICatchTUTKType {
+	ICH_TUTK_TYPE_NONE		= 0,
+	ICH_TUTK_TYPE_SERVER	= 1,
+	ICH_TUTK_TYPE_CLIENT	= 2,
+	ICH_TUTK_TYPE_TUNNEL	= 3
+} ICatchTUTKType;
+
+#endif
+

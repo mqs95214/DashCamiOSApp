@@ -1,0 +1,11 @@
+#ifndef __ICATCH_DATE_STAMP_H__
+#define __ICATCH_DATE_STAMP_H__
+
+enum ICatchDateStamp {
+	DATE_STAMP_OFF			= 1,
+	DATE_STAMP_DATE			= 2,
+	DATE_STAMP_DATE_TIME	= 3,
+	DATE_STAMP_UNDEFINED	= 0xFF,
+};
+
+#endif
